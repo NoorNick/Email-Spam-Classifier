@@ -1,5 +1,5 @@
 # 📧 Email Spam Classifier
-A simple machine learning project to classify emails as Spam or Not Spam using Naive Bayes and TF-IDF vectorization.
+A simple machine learning project to classify emails as Spam or Not Spam using Naive Bayes and TF-IDF vectorization. This Project was made in fulfillment of the Skills Union Data Science and AI Certification.
 <br><br>
 ## 🚀 Project Overview
 This project builds a basic spam email classifier that uses text processing and the Multinomial Naive Bayes algorithm to identify whether an email is spam or not. It demonstrates core NLP preprocessing steps and classification techniques using Python's scikit-learn library.
