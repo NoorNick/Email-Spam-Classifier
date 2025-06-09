@@ -40,7 +40,7 @@ The dataset is a small handcrafted list of emails labeled as Spam (1) or Not Spa
 1. Clone the repo:
 
 ```
-git clone https://github.com/yourusername/email-spam-classifier.git
+git clone https://github.com/NoorNick/Email-Spam-Classifier
 cd email-spam-classifier
 ```
 
