@@ -1,11 +1,11 @@
 # 📧 Email Spam Classifier
 A simple machine learning project to classify emails as Spam or Not Spam using Naive Bayes and TF-IDF vectorization. This Project was made in fulfillment of the Skills Union Data Science and AI Certification.
 <br><br>
-## 🚀 Project Overview
+## Project Overview
 This project builds a basic spam email classifier that uses text processing and the Multinomial Naive Bayes algorithm to identify whether an email is spam or not. It demonstrates core NLP preprocessing steps and classification techniques using Python's scikit-learn library.
 <br><br>
 
-## 🛠️ Features
+## Features
 - Preprocessing with TF-IDF vectorization (including unigrams & bigrams)
 
 - Spam classification using Multinomial Naive Bayes
@@ -15,7 +15,7 @@ This project builds a basic spam email classifier that uses text processing and 
 - Prediction and confidence scores on new email examples
 <br><br>
 
-## 🧰 Technologies Used
+## Technologies Used
 - Python 3.x
 
 - scikit-learn
@@ -25,7 +25,7 @@ This project builds a basic spam email classifier that uses text processing and 
 - numpy
 <br><br>
 
-## 🗂️ Dataset
+## Dataset
 The dataset is a small handcrafted list of emails labeled as Spam (1) or Not Spam (0):
 
 ```
@@ -36,7 +36,7 @@ The dataset is a small handcrafted list of emails labeled as Spam (1) or Not Spa
 "Meeting at 3pm tomorrow", "Project deadline reminder", "Team lunch next week", etc.
 ```
 
-⚙️ Installation & Setup
+Installation & Setup
 1. Clone the repo:
 
 ```
@@ -59,7 +59,7 @@ pip install -r requirements.txt
 ```
 <br><br>
 
-## ▶️ How to Run
+## How to Run
 Run the notebook or script to train the spam classifier and test it:
 
 ```
@@ -74,7 +74,7 @@ The script will:
 - Predict new example emails and show spam/not spam labels with confidence scores
 <br><br>
 
-## 📊 Sample Output
+## Sample Output
 ```
 Accuracy: 1.0
 
